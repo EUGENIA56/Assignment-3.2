@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(204, 43%, 93%);
+}
+
+#container{
+    width: 45%;
+    height: 70vh;
+    /* border: 1px solid brown; */
+    margin-left: 27%;
+    margin-right: 27%;
+    margin-top: 7%;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+
+#topdiv{
+    /* margin-left: 7%; */
+    /* margin: 3%; */
+    background-color: #fff;
+    padding: 20px;
+    
+}
+
+h2{
+    color: hsl(179, 62%, 43%);
+    font-size: 120%;
+    padding: 10px;
+    /* margin: 5%; */
+    margin-left: 1.5%;
+}
+
+h4{
+    padding: 10px;
+    color: hsl(71, 73%, 54%);
+    margin-left: 1.5%;
+}
+
+#p1{
+    color: hsl(218, 22%, 67%);
+    margin-left: 3%;
+}
+
+#rightdiv{
+    width: 50%;
+    /* border: 1px solid red; */
+    height: 41vh;
+    background-color: hsl(179, 62%, 43%);
+}
+
+#sub{
+    color: #fff;
+    /* margin-left: -1%; */
+    padding-right: 80px;
+}
+
+h1{
+    color: #fff;
+}
+
+#month{
+    margin-left: 25%;
+    margin-top: -10%;
+    color: #fff;
+}
+
+#access{
+    color: #fff;
+    margin-top: 10%;
+    
+}
+
+#btnsignup{
+    padding: 13px;
+    color: #fff;
+    background-color: hsl(71, 73%, 54%);
+    width: 80%;
+    margin-top: -10%;
+    border-color: hsl(71, 73%, 54%);
+    border-radius: 10px;
+    
+    
+}
+
+.right{
+    margin-left: 7%;
+}
+
+#leftdiv{
+    /* border: 1px solid magenta; */
+    margin-left: 50%;
+    margin-top: -44.7%;
+    height: 41vh;
+    background-color: hsl(179, 47%, 57%);
+}
+
+#Why{
+    margin-left: 13%;
+    color: #fff;
+    margin-top: 8%;
+}
+
+#last{
+    margin-left: 13%;
+    color: #fff;
+    margin-top: 5%;
+    padding: 1%;
+}
